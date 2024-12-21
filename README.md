@@ -86,17 +86,7 @@ The project includes the following key features:
 3. **Exit Application:**
     - Allows users to log out and safely exit.
 
----
 
-## Submission Guidelines
-- **Code Structure:**
-    - Organized in separate directories for each role (Student, Professor, Administrator, TA).
-
-- **Documentation:**
-    - Includes a README explaining OOP concepts applied, project functionalities, and usage instructions.
-
-- **UML Diagram:**
-    - Provides a detailed overview of class relationships and system architecture.
 
 ---
 
@@ -124,12 +114,6 @@ The project includes the following key features:
 
 ---
 
-## Demonstration
-1. Includes examples of usage with three students, two professors, one administrator, and five courses.
-2. Showcases role-specific functionalities and exception handling scenarios.
 
----
 
-## UML Diagram
-A UML diagram is included to illustrate class relationships and the system architecture.
 
